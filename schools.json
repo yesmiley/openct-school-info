@@ -1107,6 +1107,13 @@
 	"cmsURL":"https://jwc.scnu.edu.cn/default2.aspx",
 	"libSys":"njhuiwen",
 	"cmsURL":"http://202.116.41.246:8080/opac/search_adv.php#/index"
+  },
+  {
+    "name":"江西师范大学",
+    "cmsSys":"custom",
+    "cmsURL":"http://219.229.250.18/Default_Login.aspx",
+    "libSys":"njhuiwen",
+    "libURL":"http://219.229.250.138:8080/opac/search.php"
   }
 	
 ]
